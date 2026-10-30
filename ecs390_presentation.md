@@ -1,5 +1,18 @@
 # Notes, "On the Effects of Active Learning Environments in Computing Education"
 
+## Slides
+
+- title
+- context: existing research on ALCs has shown that they have positive effects on learning outcomes
+- this paper presents a study seeking to replicate that research while better accounting for potentially confounding factors
+- what is an ALC?
+- what are some active learning techniques?
+  - peer instruction
+- study design (three classes, same instructor, isolating classroom and pedagogy)
+  - limitations, known and suspected: this was one instructor, for one course, using one active-learning approach
+- findings suggest that instruction style is the determining factor
+- suggested takeaways: don’t be dazzled by techno-solutions; the latest gear or a more expensive setup will not help on its own and will require training to use properly; learning is accomplished through multiple passes over the material, in ways that prompt students to recall actively what they’re in the process of retaining and understanding.
+
 ## Overview
 
 - studied effects of active learning classroom in an intro to programming course
