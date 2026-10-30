@@ -39,13 +39,13 @@
 
 #### Peer Instruction
 
-- students typically to reading and practice problems ahead of class
+- students typically required to reading and practice problems ahead of class
 - students discuss the prep material in class and do more practice
 - shown to improve "student achievement, satisfaction and self-efficacy" as well as to increase student retention in into programming courses (268)
 - From Catherine H Crouch and Eric Mazur. Peer instruction: Ten years of experience
   and results. American journal of physics, 69(9):970–977, 2001:
   - "Peer Instruction engages students during class through activities that require each student to apply the core concepts being presented, and then to explain those concepts to their fellow students"
-  - Students must to the relevant reading before class (this is presented as some kind of novelty, which surprised me).
+  - Students must do the relevant reading before class (this is presented as some kind of novelty, which surprised me).
   - Class is divided into several chunks, each of which goes through the following sequence:
     1. Instructor gives a short presentation, concluding with a conceptual question
     2. Students take a minute or two alone to formulate an answer.
