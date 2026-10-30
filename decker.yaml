@@ -1,0 +1,9 @@
+# A minimal Decker meta data file
+author: The example generator
+
+reveal:
+  center: 0
+  pdfSeparateFragments: false
+  transition: "none"
+  width: 1280
+  height: 800
