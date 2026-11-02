@@ -8,9 +8,9 @@ date: November 6, 2026
 # The Authors' Aim
 
 - Prior research has shown that active learning classrooms have positive effects on learning outcomes.
-  ::: incremental
 
-- However, these studies were conducted in the sciences "by the same groups of researchers at three institutions": NCSU, MIT, and U of MN (Greer, et al. 267).
+::: incremental
+
 - This paper tries to replicate that research while better accounting for potentially confounding factors.
 
 :::
