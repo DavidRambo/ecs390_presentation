@@ -84,15 +84,6 @@ Comparison between three courses:
 
 ## Results and Dicussion
 
-### Weird, possibly contradictory phrasing re age and gender
-
-"a significant difference in terms of gender [...] was found.
-Students in Course Three appeared to be older than their counterparts [...].
-Although each section of the course was majority male (greater than 56% in all sections), it is worth noting that the percentage of female students is not significantly lower than male students" (269).
-
-The ordering of information here is strange.
-First they mention gender as significant, then the next thing they say has to do with age, after which they provide the "majority male" percentage, and conclude by saying that it's nos significant.
-
 ### ALE "insignificant"
 
 The authors claim to have "successfully separated the effects of learning environments from other potentially confounding factors, among which the pedagogical approach is the most important one" (270).
