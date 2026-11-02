@@ -45,31 +45,15 @@ Includes:
 
 <!-- The study we read used peer instruction as its exemplar for active learning. -->
 
-Peer instruction has been shown to improve "student achievement, satisfaction and self-efficacy" as well as to increase student retention in introductory programming courses (Greer, et al. 268).
-So what is it?
-
 ::: incremental
 
-- Students read and do practice problems ahead of class.
-- Students discuss the prep material in class and do more practice.
-
-- From Catherine H Crouch and Eric Mazur. Peer instruction: Ten years of experience
+- Catherine H Crouch and Eric Mazur. Peer instruction: Ten years of experience
   and results. American journal of physics, 69(9):970–977, 2001: <!-- at MIT -->
-
-  - "Peer Instruction engages students during class through activities that require each student to apply the core concepts being presented, and then to explain those concepts to their fellow students" (970).
-  - Students must do the relevant reading before class.
-
-:::
-
-# Peer Instruction (cont'd)
-
-Class is divided into several chunks, each of which goes through the following sequence:\
-
-::: incremental
-
-1. Instructor gives a short presentation, concluding with a conceptual question ("clicker questions" i.e. polls).
-2. Students take a minute or two alone to formulate an answer.
-3. Students form groups and try to convince their peers of their answer.
+  - Students read and do practice problems ahead of class.
+  - Class is divided into several chunks, each of which goes through the following sequence:
+    1. Instructor gives a short presentation, concluding with a conceptual question ("clicker questions" i.e. polls).
+    2. Students take a minute or two alone to formulate an answer.
+    3. Students form groups and try to convince their peers of their answer.
 
 :::
 
