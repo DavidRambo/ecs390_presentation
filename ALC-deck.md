@@ -32,7 +32,7 @@ Includes:
 
 ::: incremental
 
-- "team-based learning, paired-programming and peen instruction" (Greer, et al. 268).
+- "team-based learning, paired-programming and peer instruction" (Greer, et al. 268).
 - From a referenced paper (Hossein Hakimzadeh, Raman Adaikkalavan, and Robert Batzinger, 2011):
   - Group activities, like solve a problem, often on a whiteboard or with a computer display.
   - Act out sorting algorithm using numbers written on pieces of paper.
