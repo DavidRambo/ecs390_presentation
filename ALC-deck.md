@@ -77,3 +77,55 @@ Two limits to prior studies:
 - Same instructor for all three.
 - Collected data on major, gender, and age.
 - Same two midterms and final exam.
+
+# Statistical Results
+
+The researchers have implemented MANCOVA to examine the exam performance while taking demographic factors into account.
+
+| Factor | p-value | Significant? |
+|---|---:|---|
+| Pedagogical Method | 0.006 | Yes |
+| Classroom Type | 0.042 | No* |
+| Age | 0.061 | No |
+| Gender | 0.064 | No |
+| Major | 0.923 | No |
+
+*The Bonferroni-adjusted significance threshold is p < 0.016.*
+
+::: incremental
+- The teaching method was shown to be statistically significant.
+- The classroom type was not shown to be significant after correction.
+- The demographic factors were not significant predictors in this analysis.
+:::
+
+# Interpretation and Limitations
+
+## Interpretation
+
+::: incremental
+- The pedagogical method mattered more in the reported statistical analysis.
+- The findings show the importance of peer instruction.
+- An expensive active learning classroom was not necessary for having improved outcomes.
+:::
+
+## Limitations
+
+::: incremental
+- This study was conducted in one introductory programming course.
+- There was only one instructor and three course sections in this study.
+- There were no active learning classrooms with traditional lectures.
+- The results may not generalize to all of the institutions or courses.
+:::
+
+
+# Conclusions
+
+## Main Takeaways
+
+::: incremental
+- Peer instruction has shown a statistically significant association with the exam performance.
+- The classroom design alone did not show a statistically significant effect after correction.
+- Universities should consider the role of these different teaching practices, not just the classroom infrastructure.
+:::
+
+
