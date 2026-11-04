@@ -96,6 +96,7 @@ The researchers have implemented MANCOVA to examine the exam performance while t
 - The teaching method was shown to be statistically significant.
 - The classroom type was not shown to be significant after correction.
 - The demographic factors were not significant predictors in this analysis.
+  
 :::
 
 # Interpretation and Limitations
@@ -106,6 +107,7 @@ The researchers have implemented MANCOVA to examine the exam performance while t
 - The pedagogical method mattered more in the reported statistical analysis.
 - The findings show the importance of peer instruction.
 - An expensive active learning classroom was not necessary for having improved outcomes.
+  
 :::
 
 ## Limitations
@@ -115,6 +117,7 @@ The researchers have implemented MANCOVA to examine the exam performance while t
 - There was only one instructor and three course sections in this study.
 - There were no active learning classrooms with traditional lectures.
 - The results may not generalize to all of the institutions or courses.
+  
 :::
 
 
@@ -126,6 +129,7 @@ The researchers have implemented MANCOVA to examine the exam performance while t
 - Peer instruction has shown a statistically significant association with the exam performance.
 - The classroom design alone did not show a statistically significant effect after correction.
 - Universities should consider the role of these different teaching practices, not just the classroom infrastructure.
+  
 :::
 
 
