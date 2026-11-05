@@ -33,9 +33,10 @@ Includes:
 ::: incremental
 
 - "team-based learning, paired-programming and peer instruction" (Greer, et al. 268).
-- From a referenced paper (Hossein Hakimzadeh, Raman Adaikkalavan, and Robert Batzinger, 2011):
-  - Group activities, like solve a problem, often on a whiteboard or with a computer display.
-  - Act out sorting algorithm using numbers written on pieces of paper.
+- Group activities, like solve a problem, often on a whiteboard or with a computer display.
+- Act out sorting algorithm using numbers written on pieces of paper.\
+  \
+  Hossein Hakimzadeh, Raman Adaikkalavan, and Robert Batzinger. 2011. Successful implementation of an active learning laboratory in computer science. In Proceedings of the 39th annual ACM SIGUCCS conference on User services (SIGUCCS '11).
 
 <!-- Find minimum number of ten numbers, each of which is written on its own piece of paper. Students have another blank paper, which can store one number. Viewing one number at a time and the scratch pad, find the minimum number. Then return to solo seating and code it in a high-level language. -->
 
@@ -57,46 +58,55 @@ Includes:
 
 :::
 
-# The Study
+# Back to the study...
 
-## Replication Motivation
+# Replication Motivation
 
 Two limits to prior studies:
+
+::: incremental
 
 1. "lack of control of confounding factors," namely the "influence of learning pedagogies" (268)
 2. "lack of control of false positives" b/c "significance levels were not properly corrected" when comparing "multiple factors between two groups" (268)
 
-## Study Design
+:::
+
+# Study Design
+
+::: incremental
 
 - Grouped students into three sections, comparing classroom design and pedagogical style:
 
 1. conventional = conventional classroom + lecturing
 2. active = active learning classroom + active learning and teaching
-3. hybrid = active learing and teaching in a conventional classroom
+3. hybrid = active learning and teaching in a conventional classroom
 
 - Same instructor for all three.
 - Collected data on major, gender, and age.
 - Same two midterms and final exam.
 
+:::
+
 # Statistical Results
 
 The researchers have implemented MANCOVA to examine the exam performance while taking demographic factors into account.
 
-| Factor | p-value | Significant? |
-|---|---:|---|
-| Pedagogical Method | 0.006 | Yes |
-| Classroom Type | 0.042 | No* |
-| Age | 0.061 | No |
-| Gender | 0.064 | No |
-| Major | 0.923 | No |
+| Factor             | p-value | Significant? |
+| ------------------ | ------: | ------------ |
+| Pedagogical Method |   0.006 | Yes          |
+| Classroom Type     |   0.042 | No\*         |
+| Age                |   0.061 | No           |
+| Gender             |   0.064 | No           |
+| Major              |   0.923 | No           |
 
-*The Bonferroni-adjusted significance threshold is p < 0.016.*
+_The Bonferroni-adjusted significance threshold is p < 0.016._
 
 ::: incremental
+
 - The teaching method was shown to be statistically significant.
 - The classroom type was not shown to be significant after correction.
 - The demographic factors were not significant predictors in this analysis.
-  
+
 :::
 
 # Interpretation and Limitations
@@ -104,32 +114,32 @@ The researchers have implemented MANCOVA to examine the exam performance while t
 ## Interpretation
 
 ::: incremental
+
 - The pedagogical method mattered more in the reported statistical analysis.
 - The findings show the importance of peer instruction.
 - An expensive active learning classroom was not necessary for having improved outcomes.
-  
+
 :::
 
 ## Limitations
 
 ::: incremental
+
 - This study was conducted in one introductory programming course.
 - There was only one instructor and three course sections in this study.
 - There were no active learning classrooms with traditional lectures.
 - The results may not generalize to all of the institutions or courses.
-  
-:::
 
+:::
 
 # Conclusions
 
 ## Main Takeaways
 
 ::: incremental
+
 - Peer instruction has shown a statistically significant association with the exam performance.
 - The classroom design alone did not show a statistically significant effect after correction.
 - Universities should consider the role of these different teaching practices, not just the classroom infrastructure.
-  
+
 :::
-
-
