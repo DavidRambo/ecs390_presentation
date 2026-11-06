@@ -1,6 +1,6 @@
 ---
 title: On the Effects of Active Learning Environments in Computing Education
-subtitle: Tyler Greer, Qiang Hao, Mengguo Jing, Bradley Barnes
+subtitle: Tyler Greer, Qiang Hao, Mengguo Jing, Bradley Barnes (SIGCSE 2019)
 author: Zayd Mohammed and David Rambo
 date: November 6, 2026
 ---
