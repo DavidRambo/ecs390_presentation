@@ -5,6 +5,10 @@ author: Zayd Mohammed and David Rambo
 date: November 6, 2026
 ---
 
+#
+
+![](static/title_screenshot.png)
+
 # The Authors' Aim
 
 - Prior research has shown that active learning classrooms have positive effects on learning outcomes.
